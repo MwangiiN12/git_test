@@ -1,0 +1,2 @@
+I am learning Javascript from the odin project
+it is really cool.
